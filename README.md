@@ -49,6 +49,7 @@ graph TD
 
 ##  Repository Structure
 
+```text
 MudCups Root
 │
 ├── index.html                # Application Landing Page
@@ -68,8 +69,7 @@ MudCups Root
     ├── images/               # High-Resolution Photography
     ├── videos/               # Hero Background Visuals
     └── documents/            # (Legacy) Asset Store
-
----
+```
 <div align="center">
 
 ###  Architected and Engineered by [Shaurya Dobhal](https://github.com/shauryadobhal)
