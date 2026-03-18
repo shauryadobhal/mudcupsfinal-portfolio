@@ -13,7 +13,7 @@
 
 </div>
 
-> ** DISCLOSURE:** This repository is a **Public Portfolio Showcase**. All proprietary source code logic in .html, .js, and .css files has been **redacted/omitted** to protect intellectual property. The repository structure, UI assets, and architectural documentation are fully visible for evaluation.
+>  DISCLOSURE: This repository is a **Public Portfolio Showcase**. All proprietary source code logic in .html, .js, and .css files has been **redacted/omitted** to protect intellectual property. The repository structure, UI assets, and architectural documentation are fully visible for evaluation.
 
 ---
 
@@ -25,12 +25,12 @@ Designed with **Glass-morphism**, **Smooth Scroll Animations**, and **Ultra-Resp
 
 ##  Key Features
 
-*   ** Ultra-Responsive Design:** Tailored excellence across mobile, tablet, and desktop screens.
-*   ** Premium Glass-UI:** Custom translucent layers, frosted blur effects, and high-fidelity gradients.
-*   ** Immersive Media:** Seamless background video integration and high-res asset optimization.
-*   ** Dynamic Menu Filtering:** Advanced pure-JavaScript category switching engine.
-*   ** Secure Communication:** Integrated EmailJS infrastructure for secure business inquiries.
-*   ** Animated Stats:** Interactive real-time counters for business impact metrics.
+*    Ultra-Responsive Design: Tailored excellence across mobile, tablet, and desktop screens.
+*    Premium Glass-UI: Custom translucent layers, frosted blur effects, and high-fidelity gradients.
+*    Immersive Media: Seamless background video integration and high-res asset optimization.
+*    Dynamic Menu Filtering: Advanced pure-JavaScript category switching engine.
+*    Secure Communication: Integrated EmailJS infrastructure for secure business inquiries.
+*    Animated Stats: Interactive real-time counters for business impact metrics.
 
 ##  System Architecture
 ```mermaid
