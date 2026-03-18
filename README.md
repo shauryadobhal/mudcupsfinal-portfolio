@@ -33,9 +33,8 @@ Designed with **Glass-morphism**, **Smooth Scroll Animations**, and **Ultra-Resp
 *   ** Animated Stats:** Interactive real-time counters for business impact metrics.
 
 ##  System Architecture
+```mermaid
 graph TD
-    A[Client Browser] --> B[Frontend UI Layer]
-
     B --> C{Tailwind CSS Engine}
     C --> D[Design System]
     D --> E[Glassmorphism Components]
@@ -46,6 +45,7 @@ graph TD
     F --> I[EmailJS Integration]
 
     I --> J[Franchise Inquiry Submission]
+```
 
 ##  Repository Structure
 
