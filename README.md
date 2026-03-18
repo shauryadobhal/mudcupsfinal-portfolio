@@ -35,8 +35,10 @@ Designed with **Glass-morphism**, **Smooth Scroll Animations**, and **Ultra-Resp
 ##  System Architecture
 ```mermaid
 graph TD
-    B --> C{Tailwind CSS Engine}
-    C --> D[Design System]
+    B[Frontend UI Layer]
+
+    B --> C[Tailwind CSS Engine]
+    B --> D[Design System]
     D --> E[Glassmorphism Components]
 
     B --> F[JavaScript Controllers]
